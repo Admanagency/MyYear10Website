@@ -11,13 +11,13 @@ html {
 
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
-    width: 80%;
+    width: 150%;
 }
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
     background-image: url('Titanicsub.png');
-    height: 50vh;
+    height: 10vh;
     background-size: cover;
     background-position: center;
     display: flex;
